@@ -56,7 +56,7 @@ setup(
     version=version,
     author="Chris Liechti",
     author_email="cliechti@gmx.net",
-    url="https://github.com/pyserial/pyserial",
+    url="https://github.com/esliwka/pyserial",
     packages=['serial', 'serial.tools', 'serial.urlhandler', 'serial.threaded'],
     license="BSD",
     long_description="""\
